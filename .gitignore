@@ -1,0 +1,7 @@
+runs
+.vscode
+__pycache__
+build
+dist
+.so
+
